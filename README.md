@@ -1,60 +1,43 @@
-# <img src="assets/logo.png" height="36"> FuseFlow
+<div align="center">
+
+# ⚡ FuseFlow
 
 ### AI Operating Systems for HVAC Companies
 
-Recover missed calls. Book more jobs. Automate your front office.
+*Recover missed calls • Book more jobs • Automate the front office*
 
 ---
 
-## About FuseFlow
+![Status](https://img.shields.io/badge/Status-Building%20v1.0-blue)
+![Platform](https://img.shields.io/badge/FuseFlow-Operating%20System-00A8E8)
+![Focus](https://img.shields.io/badge/Niche-HVAC-success)
+![Architecture](https://img.shields.io/badge/Architecture-Shared%20Core-orange)
 
-FuseFlow builds AI Operating Systems that help HVAC companies automate customer communication, recover lost revenue, streamline operations, and deliver a better customer experience.
-
-Rather than building one-off automations, we develop a reusable platform powered by a Shared Core architecture, enabling faster deployments, consistent quality, and scalable growth.
-
----
-
-## Our Mission
-
-Build intelligent operating systems that help home service businesses grow through automation.
+</div>
 
 ---
 
-## What We Build
+# About FuseFlow
 
-### 🤖 AI Receptionist
+FuseFlow is an AI automation company focused on building **AI Operating Systems** for HVAC businesses.
 
-24/7 AI-powered customer conversations across voice, SMS, WhatsApp, and web chat.
+Rather than delivering isolated automations, we engineer modular systems powered by a shared architecture that improve customer experience, recover lost revenue, and reduce manual work.
 
----
-
-### 🎯 Lead Qualification
-
-Automatically qualifies new leads, captures essential information, and routes opportunities to the right team.
+Our platform is designed to be deployed repeatedly across multiple businesses while remaining configurable for each client.
 
 ---
 
-### 📞 Missed Call Recovery
+# Mission
 
-Instantly follows up with customers after missed calls to recover opportunities that would otherwise be lost.
-
----
-
-### 💰 Estimate Follow-Up
-
-Automatically reminds prospects about outstanding estimates and encourages them to schedule their service.
+> Build once. Deploy everywhere.
 
 ---
 
-### ⭐ Review Generation
+# What We're Building
 
-Requests reviews at the right time to help businesses grow their online reputation.
+### Shared Core
 
----
-
-## Shared Core Platform
-
-Every FuseFlow deployment is powered by a standardized Shared Core, including:
+The foundation powering every FuseFlow deployment.
 
 - Client Configuration Service
 - CRM Manager
@@ -67,11 +50,32 @@ Every FuseFlow deployment is powered by a standardized Shared Core, including:
 - Authentication Manager
 - AI Model Manager
 
-This architecture allows us to build once and deploy consistently across clients.
+---
+
+### Tier 1 Modules
+
+- 🤖 AI Receptionist
+- 📋 Lead Qualification
+- 📞 Missed Call Recovery
+- 📄 Estimate Follow-Up
+- ⭐ Review Generation
 
 ---
 
-## Technology
+# Engineering Principles
+
+- Modular Architecture
+- Shared Core First
+- Configuration Driven
+- Event-Based Communication
+- Reusable Components
+- Production Ready
+- Version Controlled
+- Documentation First
+
+---
+
+# Technology Stack
 
 ### Automation
 
@@ -81,67 +85,94 @@ This architecture allows us to build once and deploy consistently across clients
 ### Artificial Intelligence
 
 - OpenAI
-- Multi-model architecture (planned)
+- Multi-Model Ready
 
 ### Integrations
 
-- CRM Platforms
-- Google Calendar
-- Twilio
 - WhatsApp
+- SMS
 - Email
+- Google Calendar
+- CRM Platforms
 - Slack
 - Webhooks
 
 ---
 
-## Engineering Principles
+# Development Roadmap
 
-- Modular Architecture
-- Shared Core First
-- Configuration Driven
-- Reusable Components
-- Event-Oriented Design
-- Documentation First
-- Production Ready
-- Version Controlled
+```text
+Phase 1
+Shared Core v1.0
 
----
+↓
 
-## Current Development
+Phase 2
+Tier 1 Modules
 
-**Shared Core v1.0**
+↓
 
-Status: 🟢 Active Development
+Phase 3
+Pilot HVAC Deployment
 
-Upcoming milestones include:
+↓
 
-- Client Configuration Service
-- Prompt Library
-- Knowledge Base
-- CRM Manager
-- Tier 1 Automation Modules
+Phase 4
+Case Studies
 
----
+↓
 
-## Repositories
-
-| Repository | Purpose |
-|------------|---------|
-| `fuseflow-os` | Core platform and Shared Core |
-| `fuseflow-docs` | Internal documentation |
-| `fuseflow-templates` | Reusable templates and assets |
+Phase 5
+Scale Across Home Services
+```
 
 ---
 
-## Vision
+# Repository Structure
 
-To become the operating system powering the next generation of AI-enabled home service businesses.
+```text
+fuseflow-os/
+│
+├── docs/
+├── shared-core/
+├── modules/
+├── prompts/
+├── templates/
+├── clients/
+├── assets/
+└── archive/
+```
 
 ---
 
-**FuseFlow**
+# Current Status
 
-*Build Once. Deploy Everywhere.*
+| Component | Status |
+|-----------|--------|
+| Branding | ✅ Complete |
+| Documentation (FIOM v1.0) | ✅ Complete |
+| Shared Core | 🚧 In Progress |
+| Tier 1 Modules | ⏳ Planned |
+| Pilot Deployments | ⏳ Upcoming |
 
-© 2026 FuseFlow. All rights reserved.
+---
+
+# Core Philosophy
+
+Technology alone doesn't create value.
+
+Reliable systems do.
+
+Every workflow we build should be reusable, measurable, maintainable, and focused on delivering real business outcomes.
+
+---
+
+<div align="center">
+
+**FuseFlow OS v1.0**
+
+*Private Organization • Internal Development*
+
+© 2026 FuseFlow
+
+</div>
